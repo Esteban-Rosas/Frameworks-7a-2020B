@@ -1,5 +1,9 @@
 #Script: Number race
 #Esteban Rosas - Darwin Martinez
+<<<<<<< HEAD
+=======
+
+>>>>>>> be7a5e968f49c8526d8dc0d06d96393b008f87ff
 '''
     Description:
     randint: Let me generate integer numbers
