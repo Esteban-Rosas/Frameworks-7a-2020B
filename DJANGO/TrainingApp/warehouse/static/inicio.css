@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    margin : 0;
+    padding : 0;
+    border: 0;
+}
+header{
+    position: relative;
+    padding: 100px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background: url("img/hinicio.jpg");
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url("img/binicio.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+#boton{
+    font-family: fantasy;
+    font-size: 50px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 5px;
+    padding: 20px;
+}
